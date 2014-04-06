@@ -1,0 +1,277 @@
+[Sun Feb 16 21:10:42.064926 2014] [:error] [pid 4204] [client 127.0.0.1:54604] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:10:42.297940 2014] [:error] [pid 4204] [client 127.0.0.1:54604] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:10:59.757927 2014] [:error] [pid 4206] [client 127.0.0.1:54606] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:10:59.857603 2014] [:error] [pid 4206] [client 127.0.0.1:54606] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:11:01.822990 2014] [:error] [pid 4207] [client 127.0.0.1:54607] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:11:01.927004 2014] [:error] [pid 4207] [client 127.0.0.1:54607] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:12:35.243337 2014] [:error] [pid 4204] [client 127.0.0.1:54611] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:12:35.391389 2014] [:error] [pid 4204] [client 127.0.0.1:54611] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:30.211058 2014] [:error] [pid 4206] [client 127.0.0.1:54729] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:30.314891 2014] [:error] [pid 4206] [client 127.0.0.1:54729] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:31.452365 2014] [:error] [pid 4207] [client 127.0.0.1:54730] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:31.563845 2014] [:error] [pid 4207] [client 127.0.0.1:54730] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:49.398731 2014] [:error] [pid 4208] [client 127.0.0.1:54731] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:49.503464 2014] [:error] [pid 4208] [client 127.0.0.1:54731] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:52.614811 2014] [:error] [pid 4204] [client 127.0.0.1:54734] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:23:52.716804 2014] [:error] [pid 4204] [client 127.0.0.1:54734] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:24:32.753914 2014] [:error] [pid 4205] [client 127.0.0.1:54794] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:24:33.012915 2014] [:error] [pid 4205] [client 127.0.0.1:54794] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:26:44.963723 2014] [:error] [pid 4404] [client 127.0.0.1:54841] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:26:45.110257 2014] [:error] [pid 4404] [client 127.0.0.1:54841] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:27:53.977235 2014] [:error] [pid 4206] [client 127.0.0.1:54894] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:27:54.201464 2014] [:error] [pid 4206] [client 127.0.0.1:54894] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:28:53.651220 2014] [:error] [pid 4204] [client 127.0.0.1:54899] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:28:53.801331 2014] [:error] [pid 4204] [client 127.0.0.1:54899] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:28:54.538717 2014] [:error] [pid 4408] [client 127.0.0.1:54900] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:28:54.632971 2014] [:error] [pid 4408] [client 127.0.0.1:54900] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:28:56.218618 2014] [:error] [pid 4205] [client 127.0.0.1:54901] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:28:56.311360 2014] [:error] [pid 4205] [client 127.0.0.1:54901] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:54.768947 2014] [:error] [pid 4837] [client 127.0.0.1:54909] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:54.945190 2014] [:error] [pid 4837] [client 127.0.0.1:54909] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:55.436886 2014] [:error] [pid 4838] [client 127.0.0.1:54910] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:55.544735 2014] [:error] [pid 4838] [client 127.0.0.1:54910] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:55.634641 2014] [:error] [pid 4839] [client 127.0.0.1:54911] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:55.747550 2014] [:error] [pid 4839] [client 127.0.0.1:54911] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:55.825243 2014] [:error] [pid 4840] [client 127.0.0.1:54912] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:33:55.926101 2014] [:error] [pid 4840] [client 127.0.0.1:54912] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:53.435095 2014] [:error] [pid 4837] [client 127.0.0.1:55130] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:53.596237 2014] [:error] [pid 4837] [client 127.0.0.1:55130] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:53.963932 2014] [:error] [pid 4838] [client 127.0.0.1:55131] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:54.064455 2014] [:error] [pid 4838] [client 127.0.0.1:55131] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:54.143673 2014] [:error] [pid 4839] [client 127.0.0.1:55132] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:54.259636 2014] [:error] [pid 4839] [client 127.0.0.1:55132] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:54.312931 2014] [:error] [pid 4840] [client 127.0.0.1:55133] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:46:54.425948 2014] [:error] [pid 4840] [client 127.0.0.1:55133] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:47:07.418100 2014] [:error] [pid 4841] [client 127.0.0.1:55137] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:47:07.540764 2014] [:error] [pid 4841] [client 127.0.0.1:55137] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:47:07.643329 2014] [:error] [pid 4837] [client 127.0.0.1:55138] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:57:34.389303 2014] [:error] [pid 4961] [client 127.0.0.1:55176] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:57:43.746923 2014] [:error] [pid 4838] [client 127.0.0.1:55177] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /var/www/superneur/protected/components/FrontController.php on line 75
+[Sun Feb 16 21:57:58.788563 2014] [:error] [pid 4839] [client 127.0.0.1:55178] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:58:09.163139 2014] [:error] [pid 4840] [client 127.0.0.1:55182] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:58:30.462487 2014] [:error] [pid 4841] [client 127.0.0.1:55185] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 21:59:07.169927 2014] [:error] [pid 4837] [client 127.0.0.1:55187] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /var/www/superneur/protected/components/FrontController.php on line 73
+[Sun Feb 16 21:59:51.532757 2014] [:error] [pid 4961] [client 127.0.0.1:55193] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:00:00.022729 2014] [:error] [pid 4838] [client 127.0.0.1:55194] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:00:00.834176 2014] [:error] [pid 4838] [client 127.0.0.1:55194] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:00:13.906760 2014] [:error] [pid 4839] [client 127.0.0.1:55195] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:00:19.346175 2014] [:error] [pid 4840] [client 127.0.0.1:55196] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:01:10.564206 2014] [:error] [pid 4841] [client 127.0.0.1:55197] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:01:44.690590 2014] [:error] [pid 4838] [client 127.0.0.1:55201] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:31.925237 2014] [:error] [pid 4840] [client 127.0.0.1:55217] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.085615 2014] [:error] [pid 4840] [client 127.0.0.1:55217] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.448119 2014] [:error] [pid 4841] [client 127.0.0.1:55218] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.548800 2014] [:error] [pid 4841] [client 127.0.0.1:55218] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.626659 2014] [:error] [pid 4837] [client 127.0.0.1:55219] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.750868 2014] [:error] [pid 4837] [client 127.0.0.1:55219] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.832288 2014] [:error] [pid 4961] [client 127.0.0.1:55220] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:32.942984 2014] [:error] [pid 4961] [client 127.0.0.1:55220] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:33.002800 2014] [:error] [pid 4838] [client 127.0.0.1:55221] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:07:33.115310 2014] [:error] [pid 4838] [client 127.0.0.1:55221] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:09:26.105530 2014] [:error] [pid 4837] [client 127.0.0.1:55227] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:09:26.218285 2014] [:error] [pid 4837] [client 127.0.0.1:55227] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:10:31.081618 2014] [:error] [pid 4837] [client 127.0.0.1:55233] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:10:31.258326 2014] [:error] [pid 4837] [client 127.0.0.1:55233] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:27.271472 2014] [:error] [pid 4838] [client 127.0.0.1:55235] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:27.492491 2014] [:error] [pid 4838] [client 127.0.0.1:55235] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:27.899952 2014] [:error] [pid 4839] [client 127.0.0.1:55236] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:28.014091 2014] [:error] [pid 4839] [client 127.0.0.1:55236] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:28.128536 2014] [:error] [pid 4840] [client 127.0.0.1:55237] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:28.282034 2014] [:error] [pid 4840] [client 127.0.0.1:55237] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:28.324848 2014] [:error] [pid 4841] [client 127.0.0.1:55238] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:12:28.499038 2014] [:error] [pid 4841] [client 127.0.0.1:55238] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:15:29.108275 2014] [:error] [pid 4841] [client 127.0.0.1:55276] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:15:29.296291 2014] [:error] [pid 4841] [client 127.0.0.1:55276] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:20.296813 2014] [:error] [pid 4961] [client 127.0.0.1:55324] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:20.437681 2014] [:error] [pid 4961] [client 127.0.0.1:55324] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:25.214181 2014] [:error] [pid 4838] [client 127.0.0.1:55325] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:25.314940 2014] [:error] [pid 4838] [client 127.0.0.1:55325] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:25.920888 2014] [:error] [pid 4839] [client 127.0.0.1:55326] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:26.031294 2014] [:error] [pid 4839] [client 127.0.0.1:55326] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:26.109206 2014] [:error] [pid 4840] [client 127.0.0.1:55327] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:26.213987 2014] [:error] [pid 4840] [client 127.0.0.1:55327] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:26.325172 2014] [:error] [pid 4841] [client 127.0.0.1:55328] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:26.440617 2014] [:error] [pid 4841] [client 127.0.0.1:55328] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:26.851562 2014] [:error] [pid 4837] [client 127.0.0.1:55329] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:18:27.014526 2014] [:error] [pid 4837] [client 127.0.0.1:55329] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:24:24.267205 2014] [:error] [pid 4838] [client 127.0.0.1:55339] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:24:24.423577 2014] [:error] [pid 4838] [client 127.0.0.1:55339] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:25:45.246947 2014] [:error] [pid 4840] [client 127.0.0.1:55341] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:25:45.350632 2014] [:error] [pid 4840] [client 127.0.0.1:55341] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:26:01.108600 2014] [:error] [pid 4837] [client 127.0.0.1:55343] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:26:01.215867 2014] [:error] [pid 4837] [client 127.0.0.1:55343] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:26:11.977656 2014] [:error] [pid 4838] [client 127.0.0.1:55345] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:26:12.103113 2014] [:error] [pid 4838] [client 127.0.0.1:55345] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:26:47.306640 2014] [:error] [pid 4837] [client 127.0.0.1:55349] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:26:47.410014 2014] [:error] [pid 4837] [client 127.0.0.1:55349] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:35.834370 2014] [:error] [pid 4838] [client 127.0.0.1:55355] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:35.992449 2014] [:error] [pid 4838] [client 127.0.0.1:55355] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:36.636904 2014] [:error] [pid 4839] [client 127.0.0.1:55356] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:36.740880 2014] [:error] [pid 4839] [client 127.0.0.1:55356] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:36.823840 2014] [:error] [pid 4840] [client 127.0.0.1:55357] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:36.928429 2014] [:error] [pid 4840] [client 127.0.0.1:55357] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:37.032850 2014] [:error] [pid 4841] [client 127.0.0.1:55358] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:28:37.187397 2014] [:error] [pid 4841] [client 127.0.0.1:55358] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:29:01.137872 2014] [:error] [pid 4838] [client 127.0.0.1:55361] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /var/www/superneur/protected/components/FrontController.php on line 60
+[Sun Feb 16 22:31:52.761924 2014] [:error] [pid 4839] [client 127.0.0.1:55478] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:31:52.973040 2014] [:error] [pid 4839] [client 127.0.0.1:55478] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:56:06.632292 2014] [:error] [pid 4961] [client 127.0.0.1:55572] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:56:06.792724 2014] [:error] [pid 4961] [client 127.0.0.1:55572] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:39.931415 2014] [:error] [pid 4839] [client 127.0.0.1:55574] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:40.062963 2014] [:error] [pid 4839] [client 127.0.0.1:55574] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:40.623073 2014] [:error] [pid 4840] [client 127.0.0.1:55575] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:40.745695 2014] [:error] [pid 4840] [client 127.0.0.1:55575] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:40.818013 2014] [:error] [pid 4841] [client 127.0.0.1:55576] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:40.909318 2014] [:error] [pid 4841] [client 127.0.0.1:55576] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:41.026939 2014] [:error] [pid 4837] [client 127.0.0.1:55577] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 22:57:41.134575 2014] [:error] [pid 4837] [client 127.0.0.1:55577] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:03:10.860452 2014] [:error] [pid 4838] [client 127.0.0.1:55680] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:03:11.013366 2014] [:error] [pid 4838] [client 127.0.0.1:55680] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:06:34.746104 2014] [:error] [pid 4838] [client 127.0.0.1:55691] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:06:34.853238 2014] [:error] [pid 4838] [client 127.0.0.1:55691] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:06:53.963826 2014] [:error] [pid 4840] [client 127.0.0.1:55693] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Sun Feb 16 23:06:55.261832 2014] [:error] [pid 4837] [client 127.0.0.1:55695] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Sun Feb 16 23:06:55.652683 2014] [:error] [pid 4838] [client 127.0.0.1:55697] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Sun Feb 16 23:06:55.855684 2014] [:error] [pid 4840] [client 127.0.0.1:55699] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Sun Feb 16 23:06:56.091762 2014] [:error] [pid 4837] [client 127.0.0.1:55701] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Sun Feb 16 23:07:00.614460 2014] [:error] [pid 4838] [client 127.0.0.1:55703] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:00.773985 2014] [:error] [pid 4838] [client 127.0.0.1:55703] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:17.313946 2014] [:error] [pid 4840] [client 127.0.0.1:55705] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:17.475416 2014] [:error] [pid 4840] [client 127.0.0.1:55705] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:18.071101 2014] [:error] [pid 4841] [client 127.0.0.1:55706] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:18.203066 2014] [:error] [pid 4841] [client 127.0.0.1:55706] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:22.915486 2014] [:error] [pid 4837] [client 127.0.0.1:55707] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:23.014711 2014] [:error] [pid 4837] [client 127.0.0.1:55707] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217
+[Sun Feb 16 23:07:45.481870 2014] [:error] [pid 4838] [client 127.0.0.1:55709] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Sun Feb 16 23:11:41.132795 2014] [:error] [pid 6569] [client 127.0.0.1:55785] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Mon Feb 17 00:00:27.817267 2014] [:error] [pid 4840] [client 127.0.0.1:56143] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54, referer: http://local.superneur.com/admin/tree/manage/type/3
+[Mon Feb 17 21:16:07.503803 2014] [:error] [pid 1702] [client 127.0.0.1:46530] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Mon Feb 17 22:38:12.525370 2014] [:error] [pid 3705] [client 127.0.0.1:46796] PHP Fatal error:  Undefined class constant 'TYPE_HOME_SLIDER' in /var/www/superneur/protected/controllers/SiteController.php on line 54
+[Tue Feb 18 02:30:46.014195 2014] [:error] [pid 7992] [client 127.0.0.1:48927] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/superneur/protected/views/admin/projects/_form.php on line 61, referer: http://local.superneur.com/admin/projects/admin
+[Tue Feb 18 02:45:17.939718 2014] [:error] [pid 8729] [client 127.0.0.1:49108] PHP Parse error:  syntax error, unexpected '<' in /var/www/superneur/protected/views/admin/projects/_form.php on line 61
+[Tue Feb 18 21:28:33.700058 2014] [:error] [pid 5015] [client 127.0.0.1:47370] PHP Parse error:  syntax error, unexpected 'hasDatepicker' (T_STRING), expecting ')' in /var/www/superneur/protected/views/admin/projects/_form.php on line 21, referer: http://local.superneur.com/admin/projects/view/id/1
+[Tue Feb 18 22:03:22.346901 2014] [:error] [pid 5825] [client 127.0.0.1:47628] PHP Parse error:  syntax error, unexpected '<' in /var/www/superneur/protected/views/admin/projects/_form.php on line 21, referer: http://local.superneur.com/admin/projects/view/id/1
+[Tue Feb 18 23:23:55.223108 2014] [:error] [pid 6232] [client 127.0.0.1:48447] PHP Parse error:  syntax error, unexpected '$form' (T_VARIABLE), expecting ',' or ';' in /var/www/superneur/protected/views/admin/projects/_form.php on line 19, referer: http://local.superneur.com/admin/projects/admin
+[Sat Mar 01 00:29:43.921850 2014] [:error] [pid 17237] [client 127.0.0.1:43530] PHP Fatal error:  Call to a member function getData() on a non-object in /var/www/superneur/framework/zii/widgets/CBaseListView.php on line 111
+[Sat Mar 01 00:43:35.853619 2014] [:error] [pid 18838] [client 127.0.0.1:43585] PHP Fatal error:  Call to a member function getData() on a non-object in /var/www/superneur/framework/zii/widgets/CBaseListView.php on line 111
+[Sat Mar 01 00:43:37.752818 2014] [:error] [pid 18838] [client 127.0.0.1:43585] PHP Fatal error:  Call to a member function getData() on a non-object in /var/www/superneur/framework/zii/widgets/CBaseListView.php on line 111
+[Sat Mar 01 00:43:40.801532 2014] [:error] [pid 18169] [client 127.0.0.1:43587] PHP Fatal error:  Call to a member function getData() on a non-object in /var/www/superneur/framework/zii/widgets/CBaseListView.php on line 111
+[Sat Mar 01 00:46:45.883938 2014] [:error] [pid 17237] [client 127.0.0.1:43620] PHP Fatal error:  Call to a member function getData() on a non-object in /var/www/superneur/framework/zii/widgets/CBaseListView.php on line 111
+[Sat Mar 01 00:46:48.088842 2014] [:error] [pid 18516] [client 127.0.0.1:43621] PHP Fatal error:  Call to a member function getData() on a non-object in /var/www/superneur/framework/zii/widgets/CBaseListView.php on line 111
+[Sat Mar 01 00:49:19.106731 2014] [:error] [pid 18989] [client 127.0.0.1:43635] PHP Fatal error:  Call to a member function search() on a non-object in /var/www/superneur/protected/views/admin/users/view.php on line 285
+[Sat Mar 01 00:49:21.041959 2014] [:error] [pid 18989] [client 127.0.0.1:43635] PHP Fatal error:  Call to a member function search() on a non-object in /var/www/superneur/protected/views/admin/users/view.php on line 285
+[Sat Mar 01 00:49:22.148352 2014] [:error] [pid 18989] [client 127.0.0.1:43635] PHP Fatal error:  Call to a member function search() on a non-object in /var/www/superneur/protected/views/admin/users/view.php on line 285
+[Sat Mar 01 00:50:41.476355 2014] [:error] [pid 18798] [client 127.0.0.1:43651] PHP Fatal error:  Call to a member function search() on a non-object in /var/www/superneur/protected/views/admin/users/view.php on line 272
+[Sat Mar 01 17:04:06.175965 2014] [:error] [pid 5679] [client 127.0.0.1:48802] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217, referer: http://local.superneur.com/auth/operation/index
+[Sun Mar 02 06:25:41.673272 2014] [:error] [pid 22773] [client 127.0.0.1:55253] PHP Fatal error:  Call to undefined method Helpers::mediaView() in /var/www/superneur/framework/base/CComponent.php(612) : eval()'d code on line 1, referer: http://local.superneur.com/admin/projects/admin
+[Mon Mar 03 11:27:46.622016 2014] [:error] [pid 5645] [client 127.0.0.1:33144] PHP Fatal error:  Call to undefined method Helpers::mediaDisplay() in /var/www/superneur/framework/base/CComponent.php(612) : eval()'d code on line 1, referer: http://local.superneur.com/admin/projects/view/id/1
+[Mon Mar 03 15:05:07.687127 2014] [:error] [pid 7711] [client 127.0.0.1:35379] PHP Parse error:  syntax error, unexpected ')' in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 247
+[Mon Mar 03 16:14:19.220389 2014] [:error] [pid 7973] [client 127.0.0.1:35796] PHP Fatal error:  Undefined class constant 'TYPE_EARTH' in /var/www/superneur/protected/models/Tree.php on line 167, referer: http://local.superneur.com/admin/dashboard
+[Mon Mar 03 18:19:59.066206 2014] [:error] [pid 9364] [client 127.0.0.1:36981] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217, referer: http://local.superneur.com/auth/operation/index
+[Mon Mar 03 21:44:11.534035 2014] [:error] [pid 10981] [client 127.0.0.1:38688] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 160
+[Mon Mar 03 21:44:25.742926 2014] [:error] [pid 11078] [client 127.0.0.1:38696] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 160
+[Mon Mar 03 21:44:33.959893 2014] [:error] [pid 10552] [client 127.0.0.1:38697] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 160
+[Mon Mar 03 21:46:46.188820 2014] [:error] [pid 10583] [client 127.0.0.1:38730] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217, referer: http://local.superneur.com/auth/operation/index
+[Mon Mar 03 21:46:55.730476 2014] [:error] [pid 10982] [client 127.0.0.1:38740] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217, referer: http://local.superneur.com/auth/operation/index
+[Mon Mar 03 21:47:15.861377 2014] [:error] [pid 10583] [client 127.0.0.1:38742] PHP Fatal error:  Class 'Metadata' not found in /var/www/superneur/framework/YiiBase.php on line 217, referer: http://local.superneur.com/auth/operation/index
+[Mon Mar 03 23:40:36.403956 2014] [:error] [pid 12076] [client 127.0.0.1:39842] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 160
+[Tue Mar 04 01:11:36.270481 2014] [:error] [pid 13038] [client 127.0.0.1:40724] PHP Fatal error:  Undefined class constant 'TYPE_VIDEO' in /var/www/superneur/protected/models/Posts.php on line 158
+[Tue Mar 04 02:44:00.345518 2014] [:error] [pid 13899] [client 127.0.0.1:41672] PHP Parse error:  syntax error, unexpected '}' in /var/www/superneur/protected/components/AdminController.php on line 155, referer: http://local.superneur.com/admin/posts/admin/type/2
+[Tue Mar 04 02:50:29.467297 2014] [:error] [pid 13920] [client 127.0.0.1:41768] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159, referer: http://local.superneur.com/admin/dashboard
+[Tue Mar 04 02:50:35.668474 2014] [:error] [pid 13954] [client 127.0.0.1:41773] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:51:08.617807 2014] [:error] [pid 13920] [client 127.0.0.1:41782] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:51:19.662861 2014] [:error] [pid 13795] [client 127.0.0.1:41784] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:52:50.154684 2014] [:error] [pid 13581] [client 127.0.0.1:41795] PHP Fatal error:  Undefined class constant 'TYPE_VIDEO' in /var/www/superneur/protected/controllers/SiteController.php on line 57
+[Tue Mar 04 02:52:54.618057 2014] [:error] [pid 13559] [client 127.0.0.1:41796] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:52:59.764935 2014] [:error] [pid 13920] [client 127.0.0.1:41797] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:56:42.563734 2014] [:error] [pid 13664] [client 127.0.0.1:41825] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:57:04.521981 2014] [:error] [pid 13581] [client 127.0.0.1:41836] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:57:16.291913 2014] [:error] [pid 13654] [client 127.0.0.1:41844] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:57:44.491261 2014] [:error] [pid 14006] [client 127.0.0.1:41852] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 02:59:28.270688 2014] [:error] [pid 13581] [client 127.0.0.1:41881] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 03:00:14.890904 2014] [:error] [pid 13664] [client 127.0.0.1:41889] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 03:00:27.153277 2014] [:error] [pid 14015] [client 127.0.0.1:41897] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 07:58:41.985419 2014] [:error] [pid 1821] [client 127.0.0.1:58908] PHP Fatal error:  Undefined class constant 'TYPE_VIDEO' in /var/www/superneur/protected/controllers/SiteController.php on line 57
+[Tue Mar 04 07:58:51.314939 2014] [:error] [pid 1822] [client 127.0.0.1:58909] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 07:59:06.090703 2014] [:error] [pid 1825] [client 127.0.0.1:58917] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 07:59:09.605418 2014] [:error] [pid 1822] [client 127.0.0.1:58919] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 159
+[Tue Mar 04 08:04:35.571583 2014] [:error] [pid 1821] [client 127.0.0.1:58974] PHP Fatal error:  Call to a member function getAvatar() on a non-object in /var/www/superneur/themes/bootstrap/views/layouts/main.php on line 160
+[Tue Mar 04 09:37:27.242150 2014] [:error] [pid 1728] [client 127.0.0.1:36666] PHP Fatal error:  Undefined class constant 'TYPE_VIDEO' in /var/www/superneur/protected/controllers/SiteController.php on line 57
+[Thu Mar 06 00:54:24.920678 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin/dashboard
+[Thu Mar 06 00:54:25.064107 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:26.964877 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin/dashboard
+[Thu Mar 06 00:54:27.039949 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:27.345663 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin/dashboard
+[Thu Mar 06 00:54:27.484470 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:30.444027 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:30.512071 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:32.065943 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:32.640460 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:33.266242 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:33.335895 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:33.486157 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:33.553738 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:33.676331 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:33.760178 2014] [:error] [pid 1710] [client 127.0.0.1:49721] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:40.990370 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:41.060221 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:41.568244 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:41.635526 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:41.746459 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:41.883347 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:41.936877 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:42.004574 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:42.129797 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:42.217539 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:42.331410 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:42.423914 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:42.527827 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:42.625827 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:42.717769 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:42.885921 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:42.911085 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:42.991835 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:43.102988 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:43.171118 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:43.295847 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:43.359606 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:43.802718 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:43.874715 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:44.054964 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:44.124428 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:44.278338 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:44.352299 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:44.521157 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:44.592388 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:44.748917 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:44.819729 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:45.206677 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:45.282850 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:45.422298 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:45.490978 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:45.644621 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:45.721484 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:45.842816 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:45.926977 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:46.059645 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:46.144368 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:46.275805 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:46.360102 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:46.533390 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:46.605888 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:46.757880 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:46.828536 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:46.984398 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:47.048210 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:47.283731 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:47.438836 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:47.633185 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:47.703689 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:47.923438 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat, referer: http://local.superneur.com/admin
+[Thu Mar 06 00:54:48.025734 2014] [:error] [pid 1712] [client 127.0.0.1:49727] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:57.324003 2014] [:error] [pid 1711] [client 127.0.0.1:49728] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:57.474556 2014] [:error] [pid 1711] [client 127.0.0.1:49728] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:54:57.521483 2014] [:error] [pid 1711] [client 127.0.0.1:49728] script '/var/www/superneur/index.php' not found or unable to stat
+[Thu Mar 06 00:55:00.449696 2014] [access_compat:error] [pid 1711] [client 127.0.0.1:49728] AH01797: client denied by server configuration: /var/www/superneur/protected/
+[Thu Mar 06 00:55:00.451200 2014] [access_compat:error] [pid 1711] [client 127.0.0.1:49728] AH01797: client denied by server configuration: /var/www/superneur/framework/
+[Thu Mar 06 00:55:00.675190 2014] [:error] [pid 1711] [client 127.0.0.1:49728] script '/var/www/superneur/index.php' not found or unable to stat
